@@ -1,0 +1,2 @@
+C:\Users\julia\source\repos\lab11\Debug\lab11.exe
+C:\Users\julia\source\repos\lab11\Debug\lab11.pdb
